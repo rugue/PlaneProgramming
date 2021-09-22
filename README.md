@@ -1,2 +1,2 @@
 # PlaneProgramming
-My plane programming project for Maliyo game 
+My plane programming project for Maliyo game bootcamp
